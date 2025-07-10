@@ -1,4 +1,8 @@
 # 🎯 SentifyYT - Chrome Plugin for Influencer Comment Analysis
+![image](https://github.com/user-attachments/assets/2ac9a396-4a79-4185-84ad-b0ae61077675)
+
+
+
 
 **SentifyYT** is a powerful Chrome extension developed for influencers to **analyze YouTube comments in real time**. It performs advanced sentiment analysis, summarization, and keyword extraction to help content creators understand their audience better and optimize their content strategy.
 
@@ -84,3 +88,7 @@ SentifyYT empowers influencers by providing **automated insights** from their co
 - Deeper comment context linking to video timestamps
 - Integration with Google Sheets and Notion for reporting
 
+
+- **Garvit Singh** – [@garvit1408](https://github.com/garvit1408)  
+  M.Tech CSE @ IIIT-Delhi | Data Science Enthusiast  
+  🌐 [My Bento Profile](https://bento.me/garvit14)
